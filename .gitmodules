@@ -1,0 +1,3 @@
+[submodule "modules/fennel"]
+	path = modules/fennel
+	url = git@github.com:bakpakin/fennel
